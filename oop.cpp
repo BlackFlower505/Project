@@ -7,4 +7,10 @@ int main()
     std::cout << "S = 3.14 * R**2" << std::endl;
     std::cout << "R: ";
     std::cin >> R; 
+
+    double S, a;
+    S = pow(a, 2);
+    std::cout << "S = a**2" << std::endl;
+    std::cout << "a: ";
+    std::cin >> a;
 }
